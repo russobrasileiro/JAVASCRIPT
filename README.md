@@ -1,2 +1,2 @@
 # JAVASCRIPT
- Estudo com JavaScript
+ Estudo com JavaScript no canal do do Curso em Vídeo.
